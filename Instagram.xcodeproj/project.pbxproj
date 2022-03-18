@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		34675B7E27E53F5000CB64EE /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34675B7D27E53F5000CB64EE /* CommentCell.swift */; };
 		3497FBEF27E16377002902B9 /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3497FBEE27E16377002902B9 /* CameraViewController.swift */; };
 		3497FBF127E17246002902B9 /* postCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3497FBF027E17246002902B9 /* postCell.swift */; };
 		34C4DBA127DEDB97007AD3D4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34C4DBA027DEDB97007AD3D4 /* AppDelegate.swift */; };
@@ -43,6 +44,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		34675B7D27E53F5000CB64EE /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		3497FBEE27E16377002902B9 /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		3497FBF027E17246002902B9 /* postCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = postCell.swift; sourceTree = "<group>"; };
 		34C4DB9D27DEDB97007AD3D4 /* Instagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Instagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -127,6 +129,7 @@
 				34C4DBA027DEDB97007AD3D4 /* AppDelegate.swift */,
 				34C4DBA227DEDB97007AD3D4 /* SceneDelegate.swift */,
 				34C4DBA627DEDB97007AD3D4 /* Main.storyboard */,
+				34675B7D27E53F5000CB64EE /* CommentCell.swift */,
 				3497FBF027E17246002902B9 /* postCell.swift */,
 				3497FBEE27E16377002902B9 /* CameraViewController.swift */,
 				34C4DBD327DEDFBA007AD3D4 /* LoginViewController.swift */,
@@ -425,6 +428,7 @@
 				34C4DBA127DEDB97007AD3D4 /* AppDelegate.swift in Sources */,
 				34C4DBA327DEDB97007AD3D4 /* SceneDelegate.swift in Sources */,
 				3497FBEF27E16377002902B9 /* CameraViewController.swift in Sources */,
+				34675B7E27E53F5000CB64EE /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
